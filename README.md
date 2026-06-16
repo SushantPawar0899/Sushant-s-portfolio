@@ -85,7 +85,13 @@ I'm a fresh MBA graduate from **Atharva Institute of Management Studies, Mumbai*
 
 ## 📈 GitHub Stats
 
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SushantPawar0899&show_icons=true&theme=tokyonight)
+
+## 💼 LinkedIn
+
+ **www.linkedin.com/in/sushant-pawar-4696162b5**
+
+
 
 ---
 
